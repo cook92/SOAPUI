@@ -269,7 +269,7 @@ import org.apache.poi.xssf.usermodel.*;
 import org.apache.poi.ss.util.*;
 import org.apache.poi.ss.usermodel.*;*/
 def TestCase = context.testCase
-def FilePath = "C:\\Users\\SakthivelSundaram\\Desktop\\TestData.xls"
+def FilePath = "TestData.xls"
 def count
 
 Workbook WorkBook1 = Workbook.getWorkbook(new File(FilePath))
