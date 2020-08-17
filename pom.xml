@@ -28,7 +28,7 @@
                         <configuration>
                             <projectFile>Calc.xml</projectFile>
                             <outputFolder>target/surefire-reports</outputFolder>
-                            <testSuite>Positive cases</testSuite>
+                            <testSuite>Add Opertion Test Suite</testSuite>
                             <junitReport>true</junitReport>
                             <exportwAll>true</exportwAll>
                             <printReport>true</printReport>
